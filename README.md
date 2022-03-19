@@ -1,1 +1,3 @@
-# Vigen-re-cipher
+# Vigenere cipher
+
+## project notes
