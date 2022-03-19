@@ -1,4 +1,0 @@
-# Vigenere cipher
-
-## project notes
-
